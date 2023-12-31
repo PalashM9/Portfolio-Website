@@ -14,7 +14,7 @@ Welcome to the repository of my personal portfolio website. This website showcas
 
 ## Technologies Used
 - HTML/CSS/JavaScript
-- Hosting on [000webhost](https://savable-light.000webhostapp.com/)
+- Hosting on [Check Live](https://savable-light.000webhostapp.com/)
 
 ## Local Development
 To set up this project locally, follow these steps:
