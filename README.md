@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the repository of my personal portfolio website. This website showcases my skills, projects, and professional journey. It's designed to highlight my experiences, accomplishments, and interests in the field of Machine Learning.
 
+<img width="788" alt="image" src="https://github.com/PalashM9/Portfolio-Website/assets/100582448/c87bef62-3e3b-4a42-a099-441dbb82f693">
+
 ## Features
 - **About Me**: A section detailing my professional background, skills, and interests.
 - **Projects**: Showcases a collection of my works.
