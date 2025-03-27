@@ -75,7 +75,7 @@ window.addEventListener("load", reveal);
  * MAIL
  */
 
-document.getElementById('contactForm').addEventListener('submit', function(event) {
+/* document.getElementById('contactForm').addEventListener('submit', function(event) {
   event.preventDefault(); 
 
   const name = this.name.value;
@@ -90,3 +90,4 @@ document.getElementById('contactForm').addEventListener('submit', function(event
 
   window.open(mailtoLink, '_blank'); 
 });
+ */
